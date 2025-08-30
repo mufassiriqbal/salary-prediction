@@ -34,7 +34,7 @@ The dataset used is `hiring (1).csv` which contains candidate details and salari
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/mufassiriqbal/salary-prediction.git
    ```
 
 2. Open the notebook in **Google Colab** or Jupyter Notebook.
