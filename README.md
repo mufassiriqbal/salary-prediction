@@ -16,7 +16,7 @@ The goal of this project is to explore how machine learning can be applied to pr
 
 ## 📂 Dataset
 
-The dataset used is `hiring (1).csv` which contains candidate details and salaries.
+The dataset used is `hiring.csv` which contains candidate details and salaries.
 
 ## 🚀 Models Implemented
 
