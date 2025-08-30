@@ -4,7 +4,7 @@ This repository contains a machine learning project that predicts salaries based
 
 ## 📌 Project Overview
 
-The goal of this project is to explore how machine learning can be applied to predict salaries of candidates. The dataset contains information about candidates' experiences and other attributes. Multiple models are tested to find the best-performing one.
+The goal of this project is to explore how machine learning can be applied to predict salaries of candidates. The dataset contains information about candidates' experiences and other attributes. Multiple models are tested to find the best-performing one. Additionally, the trained model is saved as a **pickle file** for easy reuse.
 
 ## ⚙️ Tech Stack
 
@@ -43,6 +43,8 @@ The dataset used is `hiring (1).csv` which contains candidate details and salari
 
 4. Run all cells to train and evaluate the models.
 
+5. Use the provided **pickle file (`LRmodel.pkl`)** to quickly load and test the trained model without retraining.
+
 ## 📈 Results
 
 * Linear Regression provides a baseline continuous prediction.
@@ -53,5 +55,4 @@ The dataset used is `hiring (1).csv` which contains candidate details and salari
 * Feature engineering for better prediction accuracy.
 * Hyperparameter tuning for Random Forest.
 * Adding more regression-based models.
-
-
+* Deployment of the pickle model in a simple web app (Flask/Streamlit).
